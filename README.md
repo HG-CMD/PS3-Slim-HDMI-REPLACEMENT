@@ -16,7 +16,7 @@ While you can follow these same steps for any PS3, the HDMI port will change acc
 
 Disassemble the PS3 until you can have the motherboard free. I recommend [ifixit's guide](https://www.ifixit.com/Device/Sony_TV_Console), again, choose your console's model. 
 > [!IMPORTANT]
-> If you can't separate the motherboard from the metal heatsink, heat the backside of the RSX (GPU) and the CELL Processor using the hot air gun or a hair dryer.
+> If you can't separate the motherboard from the metal heatsink, heat the backside of the RSX (GPU) and the CELL Processor using the hot air gun or a hair dryer, or play a game before disassembly.
 
 ### Step 2
 TC
